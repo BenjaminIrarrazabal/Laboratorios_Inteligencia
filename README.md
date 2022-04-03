@@ -30,4 +30,8 @@ Auxiliar: Juan Pablo Pérez
 ### Experiencia 3: 
 #### Detección de movimiento con diferencia de frames y modelo de fondo 
 
+<<<<<<< HEAD
 #### Tracking de personas basado en Deep Learning usando la red neuronal convolucional entrenada con la base de datos MS-COCO
+=======
+#### Tracking de personas basado en Deep Learning usando la red neuronal convolucional entrenada con la base de datos MS-COCO
+>>>>>>> 2acab2b1c66ec96215ee26486b327a13249b7445
