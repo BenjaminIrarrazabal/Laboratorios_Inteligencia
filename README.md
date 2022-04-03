@@ -36,4 +36,7 @@ Auxiliar: Juan Pablo Pérez
 
 #### Tracking de personas basado en Deep Learning usando la red neuronal convolucional entrenada con la base de datos MS-COCO
 
+## Unidad 2: Mineria de datos
+Profesor: Cristian Figueroa
+Auxiliar: -
 
