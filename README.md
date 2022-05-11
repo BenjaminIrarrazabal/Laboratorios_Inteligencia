@@ -33,6 +33,13 @@ Auxiliar: Juan Pablo Pérez
  <p align="center">
   <img src="bin/exp3.png" width="480"  title="exp3">
  </p>
+ 
+
+  <p align="center">
+  <img src="bin/ results_seq6.gif" width="480"  title="exp3">
+ </p>
+ 
+ 
  <p align="center">
   <img src="bin/exp3-1.png" width="480"  title="exp3-1">
  </p>
