@@ -39,7 +39,7 @@ Auxiliar: Juan Pablo Pérez
   <img src="bin/exp3-1.png" width="480"  title="exp3-1">
  </p>
  
- 
+ #### Detección de movimiento y Bounding Box usando Deep learning
   <p align="center">
    <img src="bin/results_seq6.gif" width="480"/>
 
