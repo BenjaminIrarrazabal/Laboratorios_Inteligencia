@@ -34,16 +34,16 @@ Auxiliar: Juan Pablo Pérez
   <img src="bin/exp3.png" width="480"  title="exp3">
  </p>
  
-
-  <p align="center">
-  <img src="bin/ results_seq6.gif" width="480"  title="exp3">
- </p>
- 
  
  <p align="center">
   <img src="bin/exp3-1.png" width="480"  title="exp3-1">
  </p>
+ 
+ 
+  <p align="center">
+   <img src="bin/results_seq6.gif" width="480"/>
 
+ </p>
 
 
 #### Tracking de personas basado en Deep Learning usando la red neuronal convolucional entrenada con la base de datos MS-COCO
